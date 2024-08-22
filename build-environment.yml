@@ -9,4 +9,3 @@ dependencies:
   - jupyterlite-xeus>=0.1.2,<0.2
   - pip:
     - matplotlib
-    - control
